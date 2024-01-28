@@ -2,12 +2,12 @@ API: https://blog.kata.academy/api
 
 1. Регистрация
 
-![](img/Register.jpg)
+![](img/Register.png)
 
 2. Аутентификация
 
-![](img/Authentication.jpg)
+![](img/Authentication.png)
 
 3. Получение данных текущего пользователя
 
-![](img/Сurrent-user.jpg)
+![](img/Сurrent-user.png)
